@@ -1,0 +1,2 @@
+npm run compile:sass // Za live changes u bracketsu
+live-server // otvara browser koji se refreshuje kad god se promeni nesto
